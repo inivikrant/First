@@ -2,3 +2,7 @@
 
 # a function that will return the current year
 
+# a function that will return the timestamp
+
+# a function that will return the currentmonth
+
