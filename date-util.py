@@ -6,3 +6,8 @@
 
 # a function that will return the currentmonth
 
+<<<<<<< HEAD
+=======
+# a function that will help me return the current day of week
+
+>>>>>>> date-util-func
